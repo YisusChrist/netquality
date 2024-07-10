@@ -41,7 +41,7 @@ pipx install netquality
 Open a **Terminal** and run the following commands:
 
 ```sh
-git clone https://github.com/julynx/netquality
+git clone https://github.com/yisuschrist/netquality
 cd netquality
 poetry install
 poetry run netquality
@@ -54,7 +54,7 @@ This option is not recommended, as it may cause conflicts with other packages be
 Open a **Terminal** and run the following commands:
 
 ```sh
-git clone https://github.com/julynx/netquality
+git clone https://github.com/yisuschrist/netquality
 cd netquality/netquality
 mv __main__.py netquality
 sudo chmod +x netquality
