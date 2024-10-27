@@ -1,5 +1,38 @@
 # netquality
 
+![speedtest logo](https://m.media-amazon.com/images/I/516GU1+37yL.png)
+
+<p align="center">
+    <a href="https://github.com/YisusChrist/netquality/issues">
+        <img src="https://img.shields.io/github/issues/YisusChrist/netquality?color=171b20&label=Issues%20%20&logo=gnubash&labelColor=e05f65&logoColor=ffffff">&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://github.com/YisusChrist/netquality/forks">
+        <img src="https://img.shields.io/github/forks/YisusChrist/netquality?color=171b20&label=Forks%20%20&logo=git&labelColor=f1cf8a&logoColor=ffffff">&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://github.com/YisusChrist/netquality/stargazers">
+        <img src="https://img.shields.io/github/stars/YisusChrist/netquality?color=171b20&label=Stargazers&logo=octicon-star&labelColor=70a5eb">&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://github.com/YisusChrist/netquality/actions">
+        <img alt="Tests Passing" src="https://github.com/YisusChrist/netquality/actions/workflows/github-code-scanning/codeql/badge.svg">&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://github.com/YisusChrist/netquality/pulls">
+        <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/YisusChrist/netquality?color=0088ff">&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://opensource.org/license/gpl-2-0/">
+        <img alt="License" src="https://img.shields.io/github/license/YisusChrist/netquality?color=0088ff">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/YisusChrist/netquality/issues/new?assignees=YisusChrist&labels=bug&projects=&template=bug_report.yml">Report Bug</a>
+    ·
+    <a href="https://github.com/YisusChrist/netquality/issues/new?assignees=YisusChrist&labels=feature&projects=&template=feature_request.yml">Request Feature</a>
+    ·
+    <a href="https://github.com/YisusChrist/netquality/issues/new?assignees=YisusChrist&labels=question&projects=&template=question.yml">Ask Question</a>
+    ·
+    <a href="https://github.com/YisusChrist/netquality/security/policy#reporting-a-vulnerability">Report security bug</a>
+</p>
+
 _Benchmark your internet connection._
 <br>
 
@@ -18,6 +51,7 @@ Table of Contents
   - [Usage](#usage)
   - [Uninstalling](#uninstalling)
   - [License](#license)
+  - [Credits](#credits)
 
 ## Dependencies
 
@@ -78,3 +112,8 @@ pipx uninstall netquality
 ## License
 
 `netquality` is released under the [GPL-2.0 License](https://opensource.org/license/gpl-2-0).
+
+## Credits
+
+> [!NOTE]
+> Credits to [Julynx](https://github.com/Julynx) for creating the script. I only make improvements in his code based on my preferences to customize it. All the ideas and the base of the script are his.
