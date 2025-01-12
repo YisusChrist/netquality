@@ -77,7 +77,7 @@ Open a **Terminal** and run the following commands:
 ```sh
 git clone https://github.com/yisuschrist/netquality
 cd netquality
-poetry install
+poetry install --only main
 poetry run netquality
 ```
 
